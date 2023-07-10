@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/",
-            "destination": "https://www.facebook.com/events/2829246027208907",
+            "destination": "https://www.facebook.com/zesnuboskovice",
             "statusCode": 302
         }
     ]
